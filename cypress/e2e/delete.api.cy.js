@@ -30,6 +30,4 @@ describe('Deletar Dispositivos', () => {
            
     })
 
-    //tentar deletar os id reservados 7 8 9 ....
-
 })
