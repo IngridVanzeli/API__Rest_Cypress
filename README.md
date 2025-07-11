@@ -3,9 +3,10 @@
 - Projeto Automação de Testes de API: GET, POST, PUT, DELETE
 - documentação API: https://restful-api.dev/
 
+</n>
+</n>
 
 # PROJETO NO POSTMAN 
-<h1 align="center"> Requisições HTTP pelo Postman</h1>
 
 <h3>ENDPOINTS</h4>
 <table border="1">
