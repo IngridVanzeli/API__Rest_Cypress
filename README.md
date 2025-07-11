@@ -1,11 +1,11 @@
 # Projeto de Automação API CYPRESS
-#QAZANDO
 
-- Projeto Automação de Testes de API requisições com: GET, POST, PUT, DELETE, UPDATE
+- Projeto Automação de Testes de API: GET, POST, PUT, DELETE
 - documentação API: https://restful-api.dev/
 
-# POSTMAN 
-<h1 align="center"> Requisições HTTP pelo Postman em uma API Pública </h1>
+
+# PROJETO NO POSTMAN 
+<h1 align="center"> Requisições HTTP pelo Postman</h1>
 
 <h3>ENDPOINTS</h4>
 <table border="1">
